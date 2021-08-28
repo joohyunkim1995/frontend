@@ -133,23 +133,54 @@ table {
 /* font-family: 'Montserrat', sans-serif; */
 /* font-family: 'Noto Sans KR', sans-serif; */
 
-gnb-link {
+.gnb-link {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   font-weight: 500;
   color: #191919;
   text-decoration: none;
 }
-gnb-link:hover {
+.gnb-link:hover {
   color: #10c9c3;
+}
+
+.section01 {
+  height: 320px;
+  background: #f6f6f6;
+  padding-top: 100px;
+  box-sizing: border-box;
 }
 
 .section-heading {
   text-align: center;
   font-family: "Montserrat", sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  margin-bottom: 35px;
 }
 .section-paragraph {
   text-align: center;
   line-height: 1.6;
   font-family: "Noto Sans KR", sans-serif;
+  padding: 0 200px;
+}
+
+.figure {
+  width: 340px;
+  height: 300px;
+}
+
+.figure-img {
+  width: 340px;
+  height: 300px;
+}
+
+.figure-video {
+  width: 340px;
+  height: 300px;
+}
+
+.footer {
+  background-color: #141414;
+  color: #ffffff;
 }

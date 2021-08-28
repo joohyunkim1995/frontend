@@ -278,3 +278,50 @@ https://www.w3schools.com/css/css_boxmodel.asp
 > - px : px 값으로 고정
 > - % : 부모요소를 기준으로 특정 비율만큼 설정
 > - 인라인 요소에 가로길이/세로길이는 적용되지 않음
+
+### padding
+
+> - padding-top / padding-right / padding-bottom / padding-left
+> - padding : 10px 20px 30px 40px;
+> - padding : 10px 20px 30px;
+> - padding : 10px 20px;
+> - padding : 10px;
+
+### margin
+
+> 마진 겹침 : 박스가 상하배치 되어있을 때 사이 마진이 한쪽만 적용되는 현상
+>
+> - 두 박스 모두 마진 적용 하지 않고 한쪽에만 마진을 적용
+
+### Border
+
+> border: 1px solid red;
+>
+> border-top / border-right / border-bottom / border-left
+
+### Background
+
+https://www.w3schools.com/css/css_background.asp
+
+> background-color
+>
+> background-image:url()
+
+### Color 표현방식
+
+> RGB : Red Green Blue - 가산혼합
+>
+> - 스크린에서 color 표현
+>
+> CMYK : Cyan Magenta Yellow Black - 감산혼합
+>
+> - 프린터에서 color 표현
+
+> color 코드 값
+>
+> - 10진수 표현 : rgb(255, 255, 255)
+> - 16진수 표현 : #1a9cf0
+
+### box-sizing
+
+> box-sizing:border-box => width/height가 박스의 전체 길이가 됨
