@@ -155,20 +155,15 @@ https://www.w3schools.com/html/html_filepaths.asp
 - 경로 위치 표시 방식
 - 경로 표시 기준의 변경 여부
 - 절대 경로 방식
-- # ex) 대한민국 서울특별시 서초구 ~동 대호빌딩 803호
 - ex) 대한민국 서울특별시 서초구 ~동 대호빌딩 803호
 - 출발지 위치에 상관없이 항상 찾아갈 수 있도록 표시
 - ex) 도메인 주소/상세경로 => https://www.naver.com/blog/image.jpg
 -
 
 * 상대 경로 방식
-* # ex) 강남역 11번 출구에서 3분 대호빌딩
 * ex) 강남역 11번 출구에서 3분 대호빌딩
 * 출발지 위치를 기준으로 표시
-* # ex) 상세경로 => /blog/image.jpg || image.jpg
 * ex) 상세경로 => /blog/image.jpg || image.jpg
-
-### HTML List
 
 ### HTML List
 
@@ -206,7 +201,7 @@ https://www.w3schools.com/html/html_blocks.asp
 > 포함관계
 >
 > - 블럭요소 : 다른 블럭요소, 인라인 요소, 콘텐츠 포함 가능
-> - # 인라인 요소: 다른 인라인 요소, 콘텐츠 포함 가능, 블럭 요소는 포함 불가능
+> - 인라인 요소: 다른 인라인 요소, 콘텐츠 포함 가능, 블럭 요소는 포함 불가능
 
 > - 예외: a - 인라인 요소이지만 블럭 요소 포함 가능
 
